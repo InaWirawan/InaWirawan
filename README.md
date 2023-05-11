@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Inarti Wirawan and they call me "Ina"
-- 👀 I’m TELUS employee and working under DOE - Enterprise Batch
+- 👀 I’m TELUS employee and working under CSOPS - Enterprise Batch
 - 🌱 I’m currently learning to work with GitHub while setting up the Control-M apps for Bespin
-- 💞️ I’m looking to work with my Enterprise Batch team to set up Control-M in GC
+- 💞️ I’m looking to work with my Enterprise Batch team to set up Control-M in GIDC
 - 📫 You can reach me either ina.wirawan@telus.com or 604-837-0984
 
 <!---
